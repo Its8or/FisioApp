@@ -1,21 +1,21 @@
 # FisioApp
 
 ### Objective
-    A Flutter app that helps physiotherapists perform basic exams.
+Help physiotherapists perform basic exams.
 
 ### Tools & Functions:
 The app covers the following funcitions:
-        
+
     1. Tests:
         a. Ashworth:
             lorem...
         b. MIF:
             lorem...
+        c. ASIA:
+            lorem...
 
     2. Maps:
-        a. ASIA:
+        a. MOTORS:
             lorem...
-        b. MOTORS:
-            lorem...
-        c. Dermatomes:
+        b. Dermatomes:
             lorem...
